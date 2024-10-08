@@ -1,4 +1,3 @@
-# READ THIS IF YOU WANT TO RUN THE GAME
 # WG Testing Repo
 
 
