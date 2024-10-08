@@ -19,7 +19,3 @@ Once that's finished all you need to do is run the file.
 ## License
 
 This repository is licensed under the MIT License.
-
----
-
-Thank you for checking out the Wiggle Games testing repository! We hope you enjoy testing and developing games with us!
