@@ -1,6 +1,6 @@
 # Welcome to the Wiggle Games Testing Repository
 
-Welcome to the testing repository for **Wiggle Games**! This repository contains the essential components for the development and testing of our fun and interactive games. Here, you’ll find code, test scripts, and documentation to help you get started.
+Welcome to the testing repository for **Wiggle Games**. This repository contains the essential components for the development and testing of our fun and interactive games. Here, you’ll find code, test scripts, and documentation to help you get started.
 
 ## Overview
 
