@@ -1,3 +1,4 @@
+# READ THIS IF YOU WANT TO RUN THE GAME
 # WG Testing Repo
 
 
@@ -7,7 +8,23 @@ Welcome to the testing repository for **Wiggle Games**. This repository contains
 
 You'll need Python installed because well the games are written in Python. If we want to run them on a website then they need to be written in Javascript, which is less easy on the brain.
 
-Look up how to install it I'm not going through it here.
+# Install Python on Windows
+
+## Step 1: Download Installer
+1. Go to the [Python website](https://www.python.org/downloads/).
+2. Click "Download Python" for your version.
+
+## Step 2: Run the Installer
+1. Locate the downloaded file and double-click it.
+2. **Check** "Add Python to PATH."
+3. Click "Install Now."
+
+## Step 3: Verify Installation
+1. Open Command Prompt (`Win + R`, type `cmd`).
+2. Run:
+
+   ```bash
+   python --version
 
 You'll want to also install the requirements in the requiurements.txt file. You usually use "pip" in the terminal to download packages.
 
