@@ -5,9 +5,9 @@ Welcome to the testing repository for **Wiggle Games**. This repository contains
 
 # Running a game
 
-You'll need Python installed because well the games are written in Python. If we want to run them on a website then they need to be written in Javascript, which is less easy on the brain. Attempts to convert the code can be found in the ```web-ports``` folder.
+You'll need Python installed because well the games are written in Python. If we want to run them on a website then they need to be written in Javascript, which is less easy on the brain. 
 
-Games will be converted to web code and released on WiggleGames.com.
+Attempts to convert the code can be found in the ```web-ports``` folder. Games will be converted to web code then released on WiggleGames.com, unless it is web native.
 
 ## Install Python on Windows
 
