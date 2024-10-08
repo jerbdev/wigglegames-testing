@@ -1,9 +1,9 @@
-# Welcome to the Wiggle Games Testing Repository
+# WG Testing Repo
 
 
 Welcome to the testing repository for **Wiggle Games**. This repository contains the essential components for the development and testing of Games developed for WiggleGames.com. Here, you’ll find code, test scripts, and documentation to help you get started. It's not that hard, really.
 
-You'll need Python installed because well the games are written in Python. If we want to run them on a website then they need to be written in Javascript, which is not as simple to learn as Python. 
+You'll need Python installed because well the games are written in Python. If we want to run them on a website then they need to be written in Javascript, which is not as simple to learn as Python.
 
 Look up how to install it I'm not going through it here.
 
@@ -12,7 +12,7 @@ You'll want to also install the requirements in the requiurements.txt file. You 
 ex.
 "pip install pygame"
 
-
+Once that's finished all you need to do is run the file.
 
 ## License
 
