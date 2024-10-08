@@ -1,0 +1,2 @@
+pygame>=2.0.0
+requests  # Include this if your RecipeAPI uses the requests library to fetch recipes
