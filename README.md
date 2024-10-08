@@ -5,7 +5,7 @@ Welcome to the testing repository for **Wiggle Games**. This repository contains
 
 ## Running the game
 
-You'll need Python installed because well the games are written in Python. If we want to run them on a website then they need to be written in Javascript, which is less easy on the brain than Python.
+You'll need Python installed because well the games are written in Python. If we want to run them on a website then they need to be written in Javascript, which is less easy on the brain.
 
 Look up how to install it I'm not going through it here.
 
